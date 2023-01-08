@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Halloween\bin\Debug\net6.0\Halloween.exe
+C:\Users\Jenni\source\repos\Halloween\bin\Debug\net6.0\Halloween.deps.json
+C:\Users\Jenni\source\repos\Halloween\bin\Debug\net6.0\Halloween.runtimeconfig.json
+C:\Users\Jenni\source\repos\Halloween\bin\Debug\net6.0\Halloween.dll
+C:\Users\Jenni\source\repos\Halloween\bin\Debug\net6.0\Halloween.pdb
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.dll
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\refint\Halloween.dll
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.pdb
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\Halloween.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Halloween\obj\Debug\net6.0\ref\Halloween.dll
